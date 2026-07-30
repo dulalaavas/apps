@@ -1,0 +1,93 @@
+{
+  "name": "Aavash's Apps",
+  "identifier": "com.aavash.apps",
+  "sourceURL": "https://raw.githubusercontent.com/dulalaavas/apps/main/source.json",
+  "subtitle": "Apps made by Aavash Dulal.",
+  "description": "A personal source for the iOS apps I build. Everything here is unsigned — your sideloading tool signs it with your own certificate.",
+  "website": "https://github.com/dulalaavas/apps",
+  "tintColor": "0B6B5D",
+  "apps": [
+    {
+      "name": "Aware",
+      "bundleIdentifier": "com.aavash.aware",
+      "developerName": "Aavash Dulal",
+      "subtitle": "Be aware with yourself",
+      "localizedDescription": "Track your daily habits with streaks, log how you feel and why, capture the small moments of your day, and see it all on a calendar. Everything stays on your device.",
+      "iconURL": "https://raw.githubusercontent.com/dulalaavas/apps/main/assets/aware/icon.png",
+      "tintColor": "3A6351",
+      "category": "lifestyle",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "version": "1.2",
+      "versionDate": "2026-07-18T00:00:00Z",
+      "versionDescription": "Home-screen widgets (habit streaks + quick capture), daily habit reminders, mood history chart, Face ID app lock, and a new Settings screen.",
+      "downloadURL": "https://github.com/dulalaavas/apps/releases/download/aware-v1.2/Aware-1.2.ipa",
+      "size": 1410647,
+      "minOSVersion": "17.0",
+      "versions": [
+        {
+          "version": "1.2",
+          "date": "2026-07-18T00:00:00Z",
+          "localizedDescription": "Home-screen widgets (habit streaks + quick capture), daily habit reminders, mood history chart, Face ID app lock, and a new Settings screen.",
+          "downloadURL": "https://github.com/dulalaavas/apps/releases/download/aware-v1.2/Aware-1.2.ipa",
+          "size": 1410647,
+          "sha256": "a432936305646da10964efac3e750f49b0f3c1b8f0334af41518978c5df9fed4",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "Record voice notes for journal entries.",
+          "NSFaceIDUsageDescription": "Lock the app so only you can open it."
+        }
+      }
+    },
+    {
+      "name": "Pocket Watch",
+      "bundleIdentifier": "com.aavash.pocketwatch",
+      "developerName": "Aavash Dulal",
+      "subtitle": "Know where every rupee lives.",
+      "localizedDescription": "An expense tracker built around one idea most finance apps get wrong: money isn't one abstract number — it physically lives in places. Your wallet, your bank, a drawer, eSewa.\n\nPocket Watch models those as Spaces, and every expense answers two questions: how much, and from which space. So the balances in the app always mirror the money in your pockets.\n\nSPACES\nCreate, reorder, archive, and reconcile them against what you actually have, with a running history for each one.\n\nFAST ENTRY\nA custom in-app keypad. Amount, space, category, saved — in seconds. Expenses, income, and transfers between spaces.\n\nBILLS & SUBSCRIPTIONS\nWeekly, monthly, or yearly, with fixed or estimated amounts. Reminders arrive before the due date, and Mark paid confirms the real amount and source space, records the expense, and schedules the next cycle in a single action.\n\nCALENDAR\nThe month at a glance with spend and due markers, plus per-day detail.\n\nANALYTICS\nA category donut, spending over time, income versus expense, and which space the money left from — by week, month, or year.\n\nPRIVATE BY DESIGN\nOptional Face ID lock, CSV and JSON export, and data that never leaves your phone. No account, no cloud, no network calls.",
+      "iconURL": "https://raw.githubusercontent.com/dulalaavas/apps/main/assets/pocketwatch/icon.png",
+      "tintColor": "0B6B5D",
+      "category": "finance",
+      "screenshots": [
+        "https://raw.githubusercontent.com/dulalaavas/apps/main/assets/pocketwatch/welcome.png",
+        "https://raw.githubusercontent.com/dulalaavas/apps/main/assets/pocketwatch/home-light.png",
+        "https://raw.githubusercontent.com/dulalaavas/apps/main/assets/pocketwatch/analytics.png",
+        "https://raw.githubusercontent.com/dulalaavas/apps/main/assets/pocketwatch/home-dark.png"
+      ],
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/dulalaavas/apps/main/assets/pocketwatch/welcome.png",
+        "https://raw.githubusercontent.com/dulalaavas/apps/main/assets/pocketwatch/home-light.png",
+        "https://raw.githubusercontent.com/dulalaavas/apps/main/assets/pocketwatch/analytics.png",
+        "https://raw.githubusercontent.com/dulalaavas/apps/main/assets/pocketwatch/home-dark.png"
+      ],
+      "version": "1.0",
+      "versionDate": "2026-07-30T00:00:00Z",
+      "versionDescription": "First release. Spaces, keypad-first expense entry, transfers, bills with reminders and one-tap mark-paid, month calendar, analytics, Face ID lock, and CSV/JSON export — all on-device.",
+      "downloadURL": "https://github.com/dulalaavas/apps/releases/download/pocketwatch-v1.0/PocketWatch.ipa",
+      "size": 2191595,
+      "minOSVersion": "17.0",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-07-30T00:00:00Z",
+          "localizedDescription": "First release. Spaces, keypad-first expense entry, transfers, bills with reminders and one-tap mark-paid, month calendar, analytics, Face ID lock, and CSV/JSON export — all on-device.",
+          "downloadURL": "https://github.com/dulalaavas/apps/releases/download/pocketwatch-v1.0/PocketWatch.ipa",
+          "size": 2191595,
+          "sha256": "6b38fd9c827053ee5d6242942ce49fb9af07e822803acfa8c179e45fcbc12d84",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSFaceIDUsageDescription": "Lock the app so only you can see your finances."
+        }
+      }
+    }
+  ],
+  "news": []
+}
