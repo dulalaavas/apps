@@ -15,6 +15,7 @@ Every app here is **unsigned** — your sideloading tool signs it with your own 
 |---|---|---|---|
 | **Aware** — habits, mood, and journal | 1.2 | iOS 17+ | [dulalaavas/Aware](https://github.com/dulalaavas/Aware) |
 | **Pocket Watch** — expense tracker built around Spaces | 1.0 | iOS 17+ | private |
+| **spoti.pw** — Spotify with a Liquid Glass soul | 0.22.0 | iOS 16.1+ | [dulalaavas/spoti.pw](https://github.com/dulalaavas/spoti.pw) |
 
 ## Why this repo exists
 
