@@ -89,12 +89,12 @@
       }
     },
     {
-      "name": "spoti.pw",
+      "name": "Dsgtify",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Aavash Dulal",
       "subtitle": "Spotify with a Liquid Glass soul",
       "localizedDescription": "A Liquid Glass mod for the Spotify iOS app. Keep Spotify's own screens with thoughtful tweaks (hide clutter, glass headers, AMOLED, accent colour), or switch on the full Redesign: glass tab bar, now playing bar, player and lyrics page, decluttered Home, tinted Search categories, one-title Library, and Music-style playlist/album/artist pages. Under either look: privacy switches, lyrics sources, gestures, blocked artists, remote flags, vibration, speed and pitch, and a Live Activity. Unsigned - your sideloading tool signs it with your own certificate.",
-      "iconURL": "https://raw.githubusercontent.com/dulalaavas/apps/main/assets/spotipw/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/dulalaavas/apps/main/assets/dsgtify/icon.png",
       "tintColor": "1DB954",
       "category": "music",
       "screenshots": [],
@@ -103,23 +103,23 @@
         {
           "version": "0.22.0",
           "date": "2026-10-09T00:00:00Z",
-          "localizedDescription": "spoti.pw 0.22.0 on Spotify 9.1.90. Liquid Glass UI mod: tweaked native screens or a full redesign (iOS 26+), privacy switches, lyrics sources, gestures, AMOLED, accent colour and more.",
-          "downloadURL": "https://github.com/dulalaavas/apps/releases/download/spotipw-v0.22.0/spoti.pw-0.22.0.ipa",
-          "size": 129509202,
-          "sha256": "4bb3540721d54c7712e9775e4ac03d1dcbf0b331c560e637b25f7d944b093a34",
+          "localizedDescription": "Dsgtify 0.22.0 on Spotify 9.1.90. Liquid Glass UI mod: tweaked native screens or a full redesign (iOS 26+), privacy switches, lyrics sources, gestures, AMOLED, accent colour and more.",
+          "downloadURL": "https://github.com/dulalaavas/apps/releases/download/dsgtify-v0.22.0/Dsgtify-0.22.0.ipa",
+          "size": 129488462,
+          "sha256": "69d21e03a682ac5f004cc94c8484823b0e31c467b380480529098ffeca923c5f",
           "minOSVersion": "16.1"
         }
       ],
+      "version": "0.22.0",
+      "versionDate": "2026-10-09T00:00:00Z",
+      "versionDescription": "Dsgtify 0.22.0 on Spotify 9.1.90. Liquid Glass UI mod: tweaked native screens or a full redesign (iOS 26+), privacy switches, lyrics sources, gestures, AMOLED, accent colour and more.",
+      "downloadURL": "https://github.com/dulalaavas/apps/releases/download/dsgtify-v0.22.0/Dsgtify-0.22.0.ipa",
+      "size": 129488462,
+      "minOSVersion": "16.1",
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      },
-      "version": "0.22.0",
-      "versionDate": "2026-10-09T00:00:00Z",
-      "versionDescription": "spoti.pw 0.22.0 on Spotify 9.1.90. Liquid Glass UI mod: tweaked native screens or a full redesign (iOS 26+), privacy switches, lyrics sources, gestures, AMOLED, accent colour and more.",
-      "downloadURL": "https://github.com/dulalaavas/apps/releases/download/spotipw-v0.22.0/spoti.pw-0.22.0.ipa",
-      "size": 129509202,
-      "minOSVersion": "16.1"
+      }
     }
   ],
   "news": []
